@@ -1,0 +1,90 @@
+[
+  {
+    "image": "../images/apple.png",
+    "name": "apple"
+  },
+  {
+    "image": "../images/avocado.png",
+    "name": "avocado"
+  },
+  {
+    "image": "../images/banana.png",
+    "name": "banana"
+  },
+  {
+    "image": "../images/cantaloupe.png",
+    "name": "cantaloupe"
+  },
+  {
+    "image": "../images/cherries.png",
+    "name": "cherries"
+  },
+  {
+    "image": "../images/coconut.png",
+    "name": "coconut"
+  },
+  {
+    "image": "../images/dragon-fruit.png",
+    "name": "dragon-fruit"
+  },
+  {
+    "image": "../images/grapes.png",
+    "name": "grapes"
+  },
+  {
+    "image": "../images/kiwi.png",
+    "name": "kiwi"
+  },
+  {
+    "image": "../images/lemon.png",
+    "name": "lemon"
+  },
+  {
+    "image": "../images/lychee.png",
+    "name": "lychee"
+  },
+  {
+    "image": "../images/mango.png",
+    "name": "mango"
+  },
+  {
+    "image": "../images/orange.png",
+    "name": "orange"
+  },
+  {
+    "image": "../images/papaya.png",
+    "name": "papaya"
+  },
+  {
+    "image": "../images/passion-fruit.png",
+    "name": "passion-fruit"
+  },
+  {
+    "image": "../images/peach.png",
+    "name": "peach"
+  },
+  {
+    "image": "../images/pear.png",
+    "name": "pear"
+  },
+  {
+    "image": "../images/pineapple.png",
+    "name": "pineapple"
+  },
+  {
+    "image": "../images/pomegranate.png",
+    "name": "pomegranate"
+  },
+  {
+    "image": "../images/raspberry.png",
+    "name": "raspberry"
+  },
+  {
+    "image": "../images/strawberry.png",
+    "name": "strawberry"
+  },
+  {
+    "image": "../images/watermelon.png",
+    "name": "watermelon"
+  }
+]

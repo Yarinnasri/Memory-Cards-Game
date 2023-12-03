@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Memory Cards Game" />
+    <link rel="icon" href="./images/fruits-icon.png" type="image/icon type" />
+    <title>Memory Cards Game</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <!-- Menu -->
+    <div id="menu">
+      <h1>Memory Cards</h1>
+
+      <div id="settings">
+        <p>Choose game difficulty</p>
+
+        <label class="container">
+          <label class="radio-container">
+            Easy
+            <input type="radio" name="difficulty" value="Easy" checked />
+            <span class="checkmark"></span>
+          </label>
+          <span class="best-time" id="easy-time"></span>
+        </label>
+
+        <label class="container">
+          <label class="radio-container">
+            Medium
+            <input type="radio" name="difficulty" value="Medium" />
+            <span class="checkmark"></span>
+          </label>
+          <span class="best-time" id="medium-time"></span>
+        </label>
+
+        <label class="container">
+          <label class="radio-container">
+            Hard
+            <input type="radio" name="difficulty" value="Hard" />
+            <span class="checkmark"></span>
+          </label>
+          <span class="best-time" id="hard-time"></span>
+        </label>
+      </div>
+      <button id="play-button">Play</button>
+    </div>
+
+    <!-- Game -->
+    <div id="game">
+      <div class="same-row">
+        <button id="restart-button">Restart</button>
+        <p id="timer">Time: 00:00</p>
+      </div>
+
+      <div class="grid-container"></div>
+      <!-- Grid will be injeced here -->
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
